@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.0"
   },
   "name": "movieql",
   "version": "1.0.0",
